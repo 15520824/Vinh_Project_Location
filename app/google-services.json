@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7666585241",
+    "firebase_url": "https://vinh-project-ba02e.firebaseio.com",
+    "project_id": "vinh-project-ba02e",
+    "storage_bucket": "vinh-project-ba02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7666585241:android:a1d1ce9b8c3681aa",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7666585241-9q7h5sf7c2old1n5v07m5fhhk0j7ji8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcDVZzNa-DkAQrcESPDvr4if5sFxi-dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7666585241-9q7h5sf7c2old1n5v07m5fhhk0j7ji8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
